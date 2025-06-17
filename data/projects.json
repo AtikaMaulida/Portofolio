@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Clap-Activated Automatic Lamp System with IoT Integration",
+        "year": "2023",
+        "description": "This project is an automatic lighting system that can turn a lamp on or off using the sound of a clap and can also be monitored and controlled remotely through an Internet of Things (IoT) platform. The system utilizes a sound sensor (microphone), a microcontroller (such as ATmega or Arduino), and a relay module to control the lamp's power. When the sound sensor detects a specific clap pattern, the microcontroller processes the signal and triggers the relay to switch the lamp on or off. For enhanced functionality, the system is integrated with IoT platforms such as Blynk, ThingSpeak, or Firebase, allowing users to monitor and control the lamp remotely using a smartphone.",
+        "image": "images/LAMPU TEPUK.jpg"
+    },
+    {
+        "title": "Robot Line Follower Otomatis Berbasis Mikrokontroler",
+        "year": "2024",
+        "description": "This project is the development of an automatic Line Follower Robot designed to follow a path or track marked by a contrasting color line, typically a black line on a white surface. The robot uses infrared (IR) sensors to detect the line and sends the data to a microcontroller (such as an ATmega or Arduino). The microcontroller processes the sensor input and controls the movement of DC motors via a motor driver module (e.g., L298N) to keep the robot aligned with the track. Powered by batteries and mounted on a mobile chassis with wheels, the robot is fully autonomous and continuously adjusts its direction based on real-time sensor feedback. This project demonstrates practical applications of embedded systems, basic robotics, and control logic, making it ideal for educational purposes, robotics competitions, and smart transportation simulations.",
+        "image": "images/LINE FOLLOWER.jpg"
+    },
+	{
+        "title": "Flood Detection System Using Resistance-Based Water Sensor",
+        "year": "2024",
+        "description": "This project is a flood early warning system that uses a resistance-based water sensor to detect rising water levels. The principle of operation relies on the fact that water conducts electricity; as water reaches certain sensor points, it changes the resistance value in the circuit. These changes are detected by a microcontroller (such as Arduino or ATmega), which then triggers alerts such as LEDs, buzzers, or even notifications via IoT platforms. The system is designed to be simple, low-cost, and scalable, making it ideal for early flood detection in flood-prone areas, especially in residential or rural communities. With real-time monitoring and warning capabilities, this tool can help minimize property damage and enhance community preparedness during heavy rainfall or overflow events.",
+        "image": "images/DETEKSI BANJIR.jpg"
+    },
+	{
+        "title": "Sistem Monitoring dan Logging Operational Penggerak Wesel Layan Setempat Elektrik (WLSE) Berbasis IoT untuk Pemantauan Real-Time",
+        "year": "2025",
+        "description": "Proyek ini merupakan pengembangan sistem monitoring dan pencatatan (logging) operasional Penggerak Wesel Layan Setempat Elektrik (WLSE) berbasis Internet of Things (IoT). Sistem ini dirancang untuk memantau kondisi kerja penggerak wesel secara real-time guna meningkatkan keselamatan dan efisiensi operasional perkeretaapian. Perangkat terdiri dari sensor posisi dan status pada penggerak wesel yang terhubung ke mikrokontroler STM32F4, yang akan mengolah data dan mengirimkannya melalui modul LoRa ke Raspberry Pi sebagai gateway. Data selanjutnya dikirim ke cloud database, dan dapat diakses melalui aplikasi web atau perangkat mobile oleh petugas di pusat pemantauan. Panel kendali fisik yang tampak pada gambar berfungsi sebagai antarmuka manual untuk teknisi lapangan. Terdapat indikator pilot lamp, relay, serta push button untuk kontrol langsung dan status visual dari posisi wesel, sumber daya, dan sinyal masuk/keluar.",
+        "image": "images/WLSE.jpg"
+	}
+]

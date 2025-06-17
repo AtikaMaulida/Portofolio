@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Semarang State Polytechnic",
+		"logo": "images/POLINES.webp",
+        "major": "Diploma 3 in Electronic Engineering",
+        "year": "2022 - 2025",
+        "description": "Active student in the Diploma 3 Program in Electronic Engineering with a GPA of 3.59. Participated in various hands-on projects involving microcontroller systems (Arduino, PLC), instrumentation, and data communication. Actively involved in campus organizations and technical trainings. "
+    },
+    {
+        "university": "MAN Salatiga ",
+		"logo": "images/MAN.jpg",
+        "major": "Science Major",
+        "year": "2019 - 2022",
+        "description": "An active science student engaged in both academic and religious activities. Built a strong foundation in scientific experimentation and character development."
+    }
+]

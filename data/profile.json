@@ -1,0 +1,44 @@
+{
+    "name": "Atika Maulida - Electronic Engineering",
+    "description": "Diploma 3 Program in Electronic Engineering at Semarang State Polytechnic, Possesses a strong foundation in electronic systems, microcontroller-based device control (Arduino, PLC), and hands-on experience in industrial device maintenance through an internship at PT KAI Indonesia (Persero). Skilled in using technical software such as Proteus, MATLAB, and Simulink. Demonstrates excellent time management, communication, and teamwork abilities. ",
+    "profileImage": "images/TIKA.png",
+    "email": "maulida.atika230304@gmail.com",
+    "phone": "+62 (896) 52775754",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/atika-maulida-10b77a241/"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/AtikaMaulida"
+        },
+	{
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/atikamld03?igsh=NHV6MXF2N3Y4eHhm"
+        }
+       
+       
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV .pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 85},
+        {"name": "PLC Design", "icon": "fas fa-cogs", "level": 85},
+        {"name": "Microsoft Office", "icon": "fas fa-desktop", "level": 85},
+        {"name": "Back-end IC Design", "icon": "fas fa-database", "level": 80},
+        {"name": "Front-end IC Design", "icon": "fas fa-palette", "level": 70},
+	    {"name": "Problem Solving Skill", "icon": "fas fa-brain", "level": 85},
+        {"name": "Programming", "icon": "fab fa-js", "level": 80},
+	    {"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+        {"name": "Communication", "icon": "fas fa-list-comments", "level": 95},
+        {"name": "Adaptability", "icon": "fas fa-wind", "level": 95},
+        {"name": "Teamwork", "icon": "fas fa-users", "level": 95},
+        {"name": "Leadership", "icon": "fas fa-list-people-carry", "level": 95}
+	
+    ]
+}
